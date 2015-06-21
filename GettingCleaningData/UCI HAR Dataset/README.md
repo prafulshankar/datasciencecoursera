@@ -7,7 +7,7 @@ then as per given instructions:
     Also provided comprehensive names to columns wherever possible to facilitate merging and subsetting later
 2) obtained data regarding mean and standard deviation related variables using reges "grepl" command
     and then combined this subsetted data to the already given labels and x and y sets
-3) using a for loop, i made the labels more comprehensive by substituting each numeric value for its counterpart as per given file
+3) using a for loop, i made the labels more comprehensive by substituting each numeric value for its counterpart as was given 
     for labels
 4) using basic regex parsing, i was able to clean up variable names and also the names of any observation
     made everything lower case
